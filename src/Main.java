@@ -15,7 +15,6 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
         String sol;
-
         do {
 
             sol = sc.nextLine();
