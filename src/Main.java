@@ -13,7 +13,6 @@ public class Main {
 
         System.out.println("Угадайте слово: ");
 
-//        System.out.println(words[task]);
         Scanner sc = new Scanner(System.in);
         String sol;
 
